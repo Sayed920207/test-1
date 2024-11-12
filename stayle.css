@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+}
+p{
+    background-color: #5F9EA0;
+    width: 8%;
+}
+.span{
+    background-color: cadetblue;
+}
+.fieldset{
+    background-color: darkgoldenrod;
+    margin-top: 10px;
+
+}
+.legend{
+    background-color: blueviolet;
+
+}
+form td{
+    font-weight: bold
+}
